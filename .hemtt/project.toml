@@ -1,6 +1,6 @@
-name = "MOD_TITLE"
-author = "DartRuffian"
-prefix = "MOD_PREFIX"
+name = "TTT_PartnerMod"
+author = "Andx"
+prefix = "ttt_pm"
 mainprefix = "z"
 
 [version]
@@ -11,12 +11,12 @@ git_hash = 0
 include = [
     "mod.cpp",
     "meta.cpp",
-    "logo_MOD_PREFIX.png",
-    "logo_MOD_PREFIX_ca.paa",
+    "logo_ttt_pm.png",
+    "logo_ttt_pm_ca.paa",
     "LICENSE.md",
     "README.md",
 ]
 exclude = []
 
 [properties]
-author = "DartRuffian"
+author = "Andx"

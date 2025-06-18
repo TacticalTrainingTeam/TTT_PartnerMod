@@ -1,4 +1,4 @@
-MOD_PREFIX_common
+ttt_pm_common
 ===================
 
 Common functionality shared between addons.

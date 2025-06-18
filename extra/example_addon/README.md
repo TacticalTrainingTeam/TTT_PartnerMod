@@ -1,4 +1,4 @@
-MOD_PREFIX_addonName
+ttt_pm_addonName
 ===================
 
 Description for this addon
