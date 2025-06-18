@@ -1,7 +1,7 @@
 #define MAINPREFIX z
 #define PREFIX ttt_pm
 #define MOD_NAME TTT_PartnerMod
-#define AUTHOR "Andx"
+#define AUTHOR "Tactical Training Team"
 
 #define REQUIRED_VERSION 2.18
 #define REQUIRED_CBA_VERSION {3,18,1}

@@ -8,10 +8,13 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "ttt_pm_main"
+            "ttt_pm_main",
+            "ace_tagging"
         };
         units[] = {};
         weapons[] = {};
         VERSION_CONFIG;
     };
 };
+
+#include "ACE_Tagging.hpp"

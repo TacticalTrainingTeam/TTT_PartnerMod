@@ -1,5 +1,5 @@
 name = "TTT_PartnerMod"
-author = "Andx"
+author = "TacticalTrainingTeam"
 prefix = "ttt_pm"
 mainprefix = "z"
 
@@ -19,4 +19,4 @@ include = [
 exclude = []
 
 [properties]
-author = "Andx"
+author = "TacticalTrainingTeam"

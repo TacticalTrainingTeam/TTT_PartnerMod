@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="TTT PM">
+    <Package name="Spraypaint">
+        <Key ID="STR_ttt_pm_Spraypaint_displayName">
+            <English>Addon Name</English>
+        </Key>
+    </Package>
+</Project>
