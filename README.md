@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-    <b>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases/latest">CBA A3</a></b>
+    <b>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases/latest">CBA A3</a> and <a href="https://github.com/acemod/ACE3/releases/latest">ACE</a></b>
 </p>
 
 **TTT_PartnerMod** (TTT PM) aims to...
@@ -28,10 +28,13 @@
 The project is entirely **open-source** and any contributions are welcome.
 
 ## Core Features
+
 - Feature
 
 ## Contributing
+
 For new contributers, see the [Contributing Setup & Guidelines](./.github/CONTRIBUTING.md).
 
 ## License
+
 TTT_PartnerMod is licensed under [APL-ND](./LICENSE.md).
