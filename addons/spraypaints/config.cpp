@@ -17,4 +17,5 @@ class CfgPatches {
     };
 };
 
-#include "ACE_Tagging.hpp"
+#include "CfgWeapons.hpp"
+#include "ACE_Tags.hpp"

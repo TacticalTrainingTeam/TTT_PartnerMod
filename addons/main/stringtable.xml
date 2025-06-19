@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="TTT PM">
+<Project name="TTT_PM">
     <Package name="Main">
-        <Key ID="STR_ttt_pm_main_displayName">
+        <Key ID="STR_TTT_PM_Main_displayName">
             <English>Main</English>
         </Key>
-        <Key ID="STR_ttt_pm_main_url">
+        <Key ID="STR_TTT_PM_Main_url">
             <English>https://github.com/TacticalTrainingTeam/TTT_PartnerMod</English>
             <Czech>https://github.com/TacticalTrainingTeam/TTT_PartnerMod</Czech>
             <French>https://github.com/TacticalTrainingTeam/TTT_PartnerMod</French>
