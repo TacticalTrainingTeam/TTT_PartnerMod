@@ -23,13 +23,20 @@
     <b>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases/latest">CBA A3</a> and <a href="https://github.com/acemod/ACE3/releases/latest">ACE</a></b>
 </p>
 
-**TTT_PartnerMod** (TTT PM) aims to...
+**TTT_PartnerMod** (TTT PM) aims to enhance the Gameplay of [Tactical Training Team](https:www.tacticalteam.de) and its Partners:
+
+- [Gruppe W](https://www.gruppe-w.de)
+- [Gruppe Adler](https://gruppe-adler.de/)
+- [Praetorianische Garde](https://prae-garde.de)
+
+by providing ingame access to the Community Logos via ACE-Tagging.
 
 The project is entirely **open-source** and any contributions are welcome.
 
 ## Core Features
 
-- Feature
+- Add a new Spaypaint that allows the user to tag an object with the four Community Logos
+- Add the Numbers 0-9 to the Black Spraypaint
 
 ## Contributing
 
