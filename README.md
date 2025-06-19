@@ -1,6 +1,6 @@
 <!-- If you want to make changes to this README, you need to also modify the README.md in the docs folder as well -->
 
-<h1 align="center">TTT_PartnerMod</h1>
+<h1 align="center">TTT Partner Mod</h1>
 <p align="center">
     <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/releases/latest">
         <img src="https://img.shields.io/badge/Version-0.0.0-blue?style=flat-square" alt="TTT_PartnerMod Version">
@@ -23,7 +23,7 @@
     <b>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases/latest">CBA A3</a> and <a href="https://github.com/acemod/ACE3/releases/latest">ACE</a></b>
 </p>
 
-**TTT_PartnerMod** (TTT PM) aims to enhance the Gameplay of [Tactical Training Team](https:www.tacticalteam.de) and its Partners:
+**TTT Partner Mod** (TTT PM) aims to enhance the Gameplay of [Tactical Training Team](https:www.tacticalteam.de) and its Partners:
 
 - [Gruppe W](https://www.gruppe-w.de)
 - [Gruppe Adler](https://gruppe-adler.de/)

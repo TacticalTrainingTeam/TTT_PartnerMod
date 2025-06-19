@@ -3,9 +3,9 @@
 - Each change in a separate line
 
 ### Important
-- [ ] If the contribution affects [the documentation](../docs), please include your changes in this pull request.
+- [ ] If the contribution affects the documentation, please include your changes in this pull request.
 - [ ] [Development Guidelines](https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/.github/CONTRIBUTING.md) are read, understood and applied.
-- [ ] Title of this PR uses our standard template `Component - Add|Fix|Improve|Change|Make|Remove {changes}`.
+- [ ] Title of this PR uses our standard template `Component - Add|Fix|Improve|Change|Remove {changes}`.
 
 <!-- Known issues that need to be addressed -->
 ### Known Issues
