@@ -1,5 +1,5 @@
-#define COMPONENT spraypaint
-#define COMPONENT_BEAUTIFIED Spraypaint
+#define COMPONENT tagging
+#define COMPONENT_BEAUTIFIED tagging
 #include "\z\ttt_pm\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL

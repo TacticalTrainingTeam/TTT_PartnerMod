@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="TTT_PM">
+    <Package name="Tagging">
+        <Key ID="STR_TTT_PM_Tagging_displayName">
+            <English>Tagging</English>
+            <German>Tagging</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_spraypaint_displayName">
+            <English>Spaypaint (Community Logos)</English>
+            <German>Sprühfarbe (Community-Logos)</German>
+        </Key>
+    </Package>
+</Project>
