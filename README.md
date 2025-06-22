@@ -42,7 +42,7 @@ The project is entirely **open-source** and any contributions are welcome.
 - Add a new Spaypaint that allows the user to tag an object with the four Community Logos
 - Add the Numbers 0-9 to the Black Spraypaint
 
-- ![Beispiel_Nummern](https://github.com/user-attachments/assets/57601887-2d5e-4bb9-a6b1-1a8936bda735)
+![Beispiel_Nummern](https://github.com/user-attachments/assets/57601887-2d5e-4bb9-a6b1-1a8936bda735)
 
 
 ## Contributing
