@@ -1,5 +1,8 @@
 <!-- If you want to make changes to this README, you need to also modify the README.md in the docs folder as well -->
 
+![Beispiel1](https://github.com/user-attachments/assets/e8c10ef4-a25a-4b5d-933c-5364ed65576a)
+
+
 # TTT Partner Mod
 
 <p align="center">
