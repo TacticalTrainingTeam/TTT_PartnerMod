@@ -9,9 +9,6 @@
     <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/issues">
         <img src="https://img.shields.io/github/issues-raw/TacticalTrainingTeam/TTT_PartnerMod.svg?style=flat-square&label=Issues" alt="TTT_PartnerMod Issues">
     </a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=MOD_ID">
-        <img src="https://img.shields.io/steam/downloads/MOD_ID.svg?style=flat-square&label=Downloads" alt="TTT_PartnerMod Downloads">
-    </a>
     <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="TTT_PartnerMod License">
     </a>
