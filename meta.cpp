@@ -1,4 +1,4 @@
 protocol = 1;
-publishedid = MOD_ID;
+publishedid = 3507091121;
 name = "TTT_PartnerMod";
 timestamp = 5250140732737923549;
