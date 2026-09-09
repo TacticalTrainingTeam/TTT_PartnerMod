@@ -1,5 +1,5 @@
 author = "Andx";
-name = "TTT_PartnerMod";
+name = "TTT PartnerMod";
 description = "TTT_PartnerMod - Version 0.0.0";
 overview = "";
 overviewPicture = "logo_ttt_pm_ca.paa";

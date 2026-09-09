@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="TTT_PM">
     <Package name="Tagging">
-        <Key ID="STR_TTT_PM_Tagging_displayName">
-            <English>Tagging</English>
-            <German>Tagging</German>
+        <Key ID="STR_TTT_PM_Tagging_grad_logo_displayName">
+            <English>Gruppe Adler</English>
+            <German>Gruppe Adler</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_grpw_logo_displayName">
+            <English>Gruppe W</English>
+            <German>Gruppe W</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_eight_displayName">
+            <English>8</English>
+            <German>8</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_five_displayName">
+            <English>5</English>
+            <German>5</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_four_displayName">
+            <English>4</English>
+            <German>4</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_nine_displayName">
+            <English>9</English>
+            <German>9</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_one_displayName">
+            <English>1</English>
+            <German>1</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_seven_displayName">
+            <English>7</English>
+            <German>7</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_six_displayName">
+            <English>6</English>
+            <German>6</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_three_displayName">
+            <English>3</English>
+            <German>3</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_two_displayName">
+            <English>2</English>
+            <German>2</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_number_zero_displayName">
+            <English>0</English>
+            <German>0</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_prae_logo_displayName">
+            <English>PRAE Garde</English>
+            <German>PRAE Garde</German>
         </Key>
         <Key ID="STR_TTT_PM_Tagging_spraypaint_displayName">
             <English>Spraypaint (Community Logos)</English>
             <German>Sprühfarbe (Community-Logos)</German>
+        </Key>
+        <Key ID="STR_TTT_PM_Tagging_ttt_logo_displayName">
+            <English>TTT</English>
+            <German>TTT</German>
         </Key>
     </Package>
 </Project>
