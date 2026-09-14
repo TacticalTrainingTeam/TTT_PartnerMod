@@ -13,8 +13,8 @@
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="TTT_PartnerMod License">
     </a>
     <br>
-    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/hemtt.yml?style=flat-square&label=HEMTT" alt="HEMTT">
-    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/arma.yml?style=flat-square&label=Validate" alt="Validate">
+    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/check.yml?style=flat-square&label=Check" alt="Check">
+    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/validate.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 <p align="center">
