@@ -31,7 +31,7 @@ by providing ingame access to the Community Logos via ACE-Tagging.
 
 The project is entirely **open-source** and any contributions are welcome.
 
-## Core Features
+## Features
 
 - Add a new Spraypaint that allows the user to tag an object with the four Community Logos
 - Add the Numbers 0-9 to the Black Spraypaint
