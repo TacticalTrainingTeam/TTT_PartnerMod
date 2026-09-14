@@ -9,7 +9,7 @@
     <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/issues">
         <img src="https://img.shields.io/github/issues-raw/TacticalTrainingTeam/TTT_PartnerMod.svg?style=flat-square&label=Issues" alt="TTT_PartnerMod Issues">
     </a>
-    <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/LICENSE.md">
+    <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="TTT_PartnerMod License">
     </a>
     <br>
@@ -44,4 +44,4 @@ For new contributors, see the [Contributing Setup & Guidelines](./.github/CONTRI
 
 ## License
 
-TTT_PartnerMod is licensed under [APL-ND](./LICENSE.md).
+TTT_PartnerMod is licensed under [APL-ND](./LICENSE).

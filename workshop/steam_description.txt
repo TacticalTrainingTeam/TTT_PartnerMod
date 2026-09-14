@@ -31,7 +31,7 @@ Fully open-source. Bug reports, feature requests, and contributions are all welc
 [url=https://github.com/TacticalTrainingTeam/TTT_PartnerMod]GitHub Repository[/url]
 [url=https://github.com/TacticalTrainingTeam/TTT_PartnerMod/issues]Report an Issue[/url]
 
-Licensed under [url=https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/LICENSE.md]APL-ND[/url].
+Licensed under [url=https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/LICENSE]APL-ND[/url].
 
 ---
 
