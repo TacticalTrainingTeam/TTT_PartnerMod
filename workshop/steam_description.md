@@ -8,17 +8,17 @@
 
 by providing ingame access to the community logos via ACE-Tagging.
 
-# Requirements
+## Requirements
 
 - [CBA_A3](https://github.com/CBATeam/CBA_A3)
 - [ACE3](https://github.com/acemod/ACE3)
 
-# Features
+## Features
 
 - Add a new spraypaint that allows the user to tag an object with the four community logos
 - Add the numbers 0-9 to the black spraypaint
 
-# Source & Issues
+## Source & Issues
 
 Fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
