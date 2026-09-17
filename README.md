@@ -34,7 +34,7 @@ by providing ingame access to the Community Logos via ACE-Tagging.
 
 The project is entirely **open-source** and any contributions are welcome.
 
-Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3507091121>
+Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3507091121>  
 Discord: <https://discord.tacticalteam.de/>
 
 ## Features

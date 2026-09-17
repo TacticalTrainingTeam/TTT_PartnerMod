@@ -22,8 +22,8 @@ by providing ingame access to the community logos via ACE-Tagging.
 
 Fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
-[GitHub Repository](https://github.com/TacticalTrainingTeam/TTT_PartnerMod)
-[Report an Issue](https://github.com/TacticalTrainingTeam/TTT_PartnerMod/issues)
+[GitHub Repository](https://github.com/TacticalTrainingTeam/TTT_PartnerMod)  
+[Report an Issue](https://github.com/TacticalTrainingTeam/TTT_PartnerMod/issues)  
 [Discord](https://discord.tacticalteam.de/)
 
 Licensed under [APL-ND](https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/LICENSE).
