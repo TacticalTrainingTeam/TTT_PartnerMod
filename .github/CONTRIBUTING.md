@@ -15,3 +15,10 @@ winget install hemtt
 ## Coding Guidelines
 
 This mod follows the same coding guidelines as the ACE3 mod, which can be found [here](https://ace3.acemod.org/wiki/development/coding-guidelines).
+
+## Keeping Documentation in Sync
+
+A code change isn't done until its supporting files are updated in the same PR. Before requesting review (contributor or LLM), check:
+
+- **README.md** — update the Features section if the change affects features or usage.
+- **PR label** — apply the matching `changelog/*` label so release-drafter includes it in the drafted release notes.
