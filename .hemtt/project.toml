@@ -13,7 +13,7 @@ include = [
     "meta.cpp",
     "logo_ttt_pm.png",
     "logo_ttt_pm_ca.paa",
-    "LICENSE.md",
+    "LICENSE",
     "README.md",
 ]
 exclude = []
