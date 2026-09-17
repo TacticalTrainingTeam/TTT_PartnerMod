@@ -4,7 +4,10 @@
 
 <p align="center">
     <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/releases/latest">
-        <img src="https://img.shields.io/badge/Version-0.0.0-blue?style=flat-square" alt="TTT_PartnerMod Version">
+        <img src="https://img.shields.io/github/v/release/TacticalTrainingTeam/TTT_PartnerMod?style=flat-square&label=Version" alt="TTT_PartnerMod Version">
+    </a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3507091121">
+        <img src="https://img.shields.io/steam/downloads/3507091121.svg?style=flat-square&label=Downloads" alt="TTT_PartnerMod Downloads">
     </a>
     <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/issues">
         <img src="https://img.shields.io/github/issues-raw/TacticalTrainingTeam/TTT_PartnerMod.svg?style=flat-square&label=Issues" alt="TTT_PartnerMod Issues">
@@ -30,6 +33,9 @@
 by providing ingame access to the Community Logos via ACE-Tagging.
 
 The project is entirely **open-source** and any contributions are welcome.
+
+Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3507091121>
+Discord: <https://discord.tacticalteam.de/>
 
 ## Features
 
