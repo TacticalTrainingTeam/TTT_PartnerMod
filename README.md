@@ -9,12 +9,12 @@
     <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/issues">
         <img src="https://img.shields.io/github/issues-raw/TacticalTrainingTeam/TTT_PartnerMod.svg?style=flat-square&label=Issues" alt="TTT_PartnerMod Issues">
     </a>
-    <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/LICENSE.md">
+    <a href="https://github.com/TacticalTrainingTeam/TTT_PartnerMod/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="TTT_PartnerMod License">
     </a>
     <br>
-    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/hemtt.yml?style=flat-square&label=HEMTT" alt="HEMTT">
-    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/arma.yml?style=flat-square&label=Validate" alt="Validate">
+    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/check.yml?style=flat-square&label=Check" alt="Check">
+    <img src="https://img.shields.io/github/actions/workflow/status/TacticalTrainingTeam/TTT_PartnerMod/validate.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ by providing ingame access to the Community Logos via ACE-Tagging.
 
 The project is entirely **open-source** and any contributions are welcome.
 
-## Core Features
+## Features
 
 - Add a new Spraypaint that allows the user to tag an object with the four Community Logos
 - Add the Numbers 0-9 to the Black Spraypaint
@@ -44,4 +44,4 @@ For new contributors, see the [Contributing Setup & Guidelines](./.github/CONTRI
 
 ## License
 
-TTT_PartnerMod is licensed under [APL-ND](./LICENSE.md).
+TTT_PartnerMod is licensed under [APL-ND](./LICENSE).
