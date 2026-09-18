@@ -13,5 +13,10 @@
         "*.inc": "arma-config",
         "*.cfg": "arma-config",
         "*.rvmat": "arma-config"
+    },
+
+    "[markdown]": {
+        // Two trailing spaces are a Markdown hard line break, not stray whitespace
+        "files.trimTrailingWhitespace": false
     }
 }
